@@ -14,4 +14,8 @@ public class Bateau {
 	public int getTailleBateau() {
 		return tailleBateau;
 	}
+	
+	public String getNom() {
+		return nom;
+	}
 }
